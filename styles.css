@@ -1,0 +1,6 @@
+#thezone { border:1px solid #333; width:300px; height:300px; position:relative; cursor:crosshair; }
+#error { color:#red; }
+
+.user-pointer { position:absolute; width:4px; height:4px;  background-color:#BD2031; pointer-events: none; max-width:15px;max-height:15px;min-width:2px;min-height:2px;  }
+
+.field { height:225px;display:inline-block; margin-right:10px; }
